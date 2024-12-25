@@ -3,12 +3,12 @@
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
-
+<div style="width:100%,align-items:center;" >
  <a href="https://aditya-portfolio-dusky.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/addy_z11" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/aditya-chaudhary-111379247/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/addy_z11" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-
+</div>
 ## Creation 👨‍💻
 
 
@@ -23,32 +23,23 @@
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+
+
+#### Frontend
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-
-
-#### CSS Framework/Library/Pre-processors
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-
-#### Design/Visual Tools
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-
-
-#### Database/State
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 #### Backend
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Frappe](https://img.shields.io/badge/frappe-%230076C8.svg?style=for-the-badge&logo=frappe&logoColor=white)
 
-#### Web Hosting
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-
+#### Database/State
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
 #### Version Control
