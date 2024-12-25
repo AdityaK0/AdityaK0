@@ -12,9 +12,9 @@
 ## Creation 👨‍💻
 
 
-### <img src="https://itsvg.in/favicon.ico" width="16px" />  Portfolio 
+### Portfolio 
 [Aditya - Portfolio](https://aditya-portfolio-dusky.vercel.app/),
-<coded/> and Crafted with 💛 by Chaudhary Aditya
+</> and Crafted with 💛 by Chaudhary Aditya
 
 
 
