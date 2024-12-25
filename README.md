@@ -4,8 +4,8 @@
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
  <a href="https://aditya-portfolio-dusky.vercel.app/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+ <a href="https://www.linkedin.com/in/aditya-chaudhary-111379247/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://x.com/addy_z11" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.linkedin.com/in/aditya-chaudhary-111379247/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/addy_z11" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ## Creation 👨‍💻
@@ -59,6 +59,10 @@ if is_codeworking:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaK0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaK0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### My Repositories
+- [Portfolio](https://github.com/AdityaK0/portfolio)
+- [Project 1](https://github.com/AdityaK0/project-1)
+- [Project 2](https://github.com/AdityaK0/project-2)
 
 ### Thanks for Visiting my GitHub Profile!
 
