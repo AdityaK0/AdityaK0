@@ -50,9 +50,6 @@
 if is_codeworking:
         while codeQuality < perfectCode:
             codeQuality+=1
-            
-        
-// - Chaudhary Aditya
 
 ### Thanks for Visiting my GitHub Profile!
 
