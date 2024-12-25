@@ -49,7 +49,7 @@
 ``` python
 if is_codeworking:
         while codeQuality < perfectCode:
-            codeQuality++;
+            codeQuality+=1
             
         
 // - Chaudhary Aditya
